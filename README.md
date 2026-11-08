@@ -8,8 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [](https://github.com/OnionTDev/desafioQrCode)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: [https://github.com/OnionTDev/desafioQrCode.git](https://github.com/OnionTDev/desafioQrCode)
+- Live Site URL: [https://oniontdev.github.io/desafioQrCode/](https://oniontdev.github.io/desafioQrCode/)
 
 ### Built with
 
